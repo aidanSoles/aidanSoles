@@ -10,6 +10,12 @@ Collaboration is driven by a strong communicative ability, continual encourageme
 
 **NOTE**: Some of the following descriptions are intentionally vague, so as to not violate any of my NDA's.
 
+**Engineering Design Team (EDT)** | _DevOps Engineer_ | Portland, OR | June 2022 - Present
+* Contributed to a GUI-based end-to-end testing framework in Python for an ARM-based, NVIDIA carrier board with AI capabilities and PCIe functionality
+* Architected a secure, Ansible-deﬁned, hardened, developer self-serviced, fully-automated, Vault-backed package signing workﬂow consumed via GitLab CI
+* Retroﬁtted microservice-based TAK server to run on custom, ARM-based board
+* `HashiStack`, `Linux`, `GitLab`, `Python`, `Docker`
+
 **Palantir Technologies** | _DevOps Engineer_ | New York, NY/Seattle, WA | Sept. 2019 - Dec. 2021
 * Defined a patching pipeline, profiled and fixed performance bottlenecks, contributed to a Terraform re-architecture, and improved resiliency of a large-scale, distributed enterprise cluster
 * Top contributor to a microservice feature re-architecture, patching pipeline overhaul, cluster management feature, and B2B SaaS integration feature for a 200+ user internal platform
